@@ -48,9 +48,14 @@ body {
   color: #545454;
 }
 
-.person__description {
+.card__description {
   font-size: 16px;
   line-height: 22px;
+  margin: 0;
+}
+
+.card__description--margin {
+  margin-bottom: 22px;
 }
 
 .special {
