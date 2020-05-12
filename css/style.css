@@ -20,5 +20,12 @@ body {
   width: 45%;
   margin: 16px;
   background-color: #f8f8f8;
+  padding: 32px;
   border-radius: 16px;
+}
+
+.card__image {
+  width: 148px;
+  height: 148px;
+  border-radius: 50%;
 }
