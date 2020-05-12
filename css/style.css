@@ -14,6 +14,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #2c2141;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .main {
@@ -28,4 +29,31 @@ body {
   width: 148px;
   height: 148px;
   border-radius: 50%;
+}
+
+.card {
+}
+
+.card__name {
+  margin: 0;
+  font-size: 36px;
+  line-height: 41px;
+  font-weight: normal;
+}
+
+.card__position {
+  margin: 0;
+  font-size: 18px;
+  font-style: italic;
+  color: #545454;
+}
+
+.person__description {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.special {
+  color: #ed6d05;
+  font-weight: normal;
 }
