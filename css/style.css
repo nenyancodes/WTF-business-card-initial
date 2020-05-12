@@ -25,10 +25,16 @@ body {
   border-radius: 16px;
 }
 
+.card {
+  display: flex;
+  align-items: flex-start;
+}
+
 .card__image {
   width: 148px;
   height: 148px;
   border-radius: 50%;
+  margin-right: 32px;
 }
 
 .card__info {
