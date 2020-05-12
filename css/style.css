@@ -34,6 +34,10 @@ body {
 .card {
 }
 
+.card__info {
+  margin-bottom: 24px;
+}
+
 .card__name {
   margin: 0;
   font-size: 36px;
